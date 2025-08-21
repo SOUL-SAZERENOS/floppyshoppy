@@ -2,6 +2,8 @@ floppyshoppy
 
 -ˋˏ✄┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Ffeelinsomatryoshka&label=scaglings&icon=bug-fill&color=%23084298&message=&style=plastic&tz=Asia%2FIstanbul)
+
 " hello COWARDS. you will buy my floppies "
 
 sys
